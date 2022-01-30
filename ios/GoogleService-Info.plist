@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>826891907801-pe261bpeeoi2ii1217ar02ggtas0sq68.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.826891907801-pe261bpeeoi2ii1217ar02ggtas0sq68</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDikwYggQz_6tiGvVbQ7NWCKwUiVqO4s6A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>826891907801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AdvanceAutoFix</string>
+	<key>PROJECT_ID</key>
+	<string>advance-autofix-dba18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>advance-autofix-dba18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:826891907801:ios:eee71ae9c0236dc27344c8</string>
+	<key>DATABASE_URL</key>
+	<string>https://advance-autofix-dba18.firebaseio.com</string>
+</dict>
+</plist>
